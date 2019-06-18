@@ -1,0 +1,1 @@
+This mini-React app echoes whatever the user types in a separate field.
